@@ -1,5 +1,3 @@
-# CSE 143 (Spring 2024) HW 2 Code
-
 This folder contains 1 file (ngram.py) and 1 folder
 
 ngram.py:
